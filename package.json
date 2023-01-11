@@ -1,0 +1,20 @@
+{
+  "name": "one-key-merge",
+  "version": "1.0.0",
+  "description": "一键合gerrit代码，解放双手从我做起",
+  "main": "index.js",
+  "bin": {
+    "mergee": "bin/mergee"
+  },
+  "scripts": {
+    "start": "node lib/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "js-base64": "^3.7.4",
+    "puppeteer": "^19.5.0"
+  }
+}
