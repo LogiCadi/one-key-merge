@@ -1,6 +1,6 @@
 {
   "name": "one-key-merge",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "一键合gerrit代码，解放双手从我做起",
   "bin": {
     "one-key-merge": "bin/okm",
